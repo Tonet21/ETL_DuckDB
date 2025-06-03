@@ -4,6 +4,7 @@
 
 This project explores the basics of setting up an ETL (Extract, Transform, Load) pipeline using Python, DuckDB, and MotherDuck. It is based on a tutorial from KDNuggets, adapted and expanded to deepen my understanding of the ETL process, SQL schemas, and the importance of using DataFrames during transformation.
 
+N.B Make sure to add your MotherDuck access token as a secret.
 ---
 
 ##  Why ETL Is Important
